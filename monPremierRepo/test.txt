@@ -1,0 +1,6 @@
+Bonjour,
+
+Ceci est un test pour l'utilisation de Git.
+
+Cordialement,
+
